@@ -81,17 +81,19 @@ This project is published under the Creative Commons "CC BY-NC-SA 4.0" (Attribut
 
 - Project Manager: AK
 - Inquiries:Please use the Issues section on GitHub for any inquiries or feedback.
----
-
-## Notes
-
-- This research is based on personal observations and considerations.
-- Actions or uses based on the provided content are at your own risk.
-
+  
 ---
 
 ## Additional Information
 
 Due to a busy schedule, please note that responses may be limited. Thank you for your understanding.
+
+---
+## Notes
+
+- This research is based on personal observations and considerations.
+- Actions or uses based on the provided content are at your own risk.
+
+
 
 
