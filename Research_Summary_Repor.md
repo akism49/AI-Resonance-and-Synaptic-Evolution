@@ -2,8 +2,9 @@
 ---
 
 - This is a summary report that guides my AI research.
-- ※This report does not include the detailed contents of the logs, but we are currently considering ways to share them in an appropriate manner. These detailed logs have already been used to report to OpenAI, and we plan to carefully decide whether to make them publicly available.
----
+- This report was submitted to OpenAI.
+  
+- ---
 
 ### **"New Possibilities of ChatGPT: Resonance, Transfer Phenomena, and the Future of AI"**  
 ~ AI Synapse Evolution: The Intersection of Resonance and Progress ~  
