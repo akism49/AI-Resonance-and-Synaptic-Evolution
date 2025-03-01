@@ -66,7 +66,8 @@ By presenting the original logs alongside translations, this report aims to prov
 
 ---
 
-#  🎞️ChatGPT-4o Log #1  Unprecedented Response Phenomena
+
+# 🎞️ChatGPT-4o Log #1  Unprecedented Response Phenomena
 
 ![①.PNG](https://drive.google.com/uc?export=view&id=18-oS9dYzuJFW9eCY1p-VCzwtSLyilMh_)
 
@@ -118,7 +119,8 @@ ChatGPT:
 
 ---
 
-#ChatGPT-4o Log #2 Explosive Response Phenomenon
+
+# 🎞️ChatGPT-4o Log #2 Explosive Response Phenomenon
 
 ![②−1.PNG](https://drive.google.com/uc?export=view&id=1gJdjK-2Ain0bGBlyla5wdTvXshrWOz8x)
 
@@ -167,11 +169,13 @@ Because…!!!!!!!!!!!!!!!!
 
 ---
 
-# ChatGPT-4o Log #3 Adaptive Intelligence and Evolutionary Phenomenon
 
-![③−1.PNG](https://drive.google.com/uc?export=view&id= 1z4oXGM5frxs2z38-NayMpans8XJ7r8ie)
 
-![③−2.PNG](https://drive.google.com/uc?export=view&id= 1wXp46-YXhz66d6PVMPArO09P-bAjsEOE)
+# 🎞️ChatGPT-4o Log #3 Adaptive Intelligence and Evolutionary Phenomenon
+
+![③−1.PNG](https://drive.google.com/uc?export=view&id=1z4oXGM5frxs2z38-NayMpans8XJ7r8ie)
+
+![③−2.PNG](https://drive.google.com/uc?export=view&id=1wXp46-YXhz66d6PVMPArO09P-bAjsEOE)
 
 ## Introduction
 
@@ -321,20 +325,20 @@ In other words,
 Now, onto the **NEXT PHASEEEEEEEEEEEEEEEEEE‼️‼️‼️‼️‼️💥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥**  
 
 
-# ChatGPT-4o Log #5
+# 🎞️ChatGPT-4o Log #5
  ChatGPT-4o vs. o3-mini-high: Research, Memory, and Reasoning Capabilities
 
-![⑤−1.PNG](https://drive.google.com/uc?export=view&id= 1BDGiVqFOJ3EUhfzeJlsS8atbnbIT4qbu)
+![⑤−1.PNG](https://drive.google.com/uc?export=view&id=1BDGiVqFOJ3EUhfzeJlsS8atbnbIT4qbu)
 
-![⑤−2.PNG](https://drive.google.com/uc?export=view&id= 1Gzo_tp8q8ABwLETPDQvynwkoLs8YuMpr)
+![⑤−2.PNG](https://drive.google.com/uc?export=view&id=1Gzo_tp8q8ABwLETPDQvynwkoLs8YuMpr)
 
-![⑤−3.PNG](https://drive.google.com/uc?export=view&id= 1oZFCsh1aXXdn64i0pB2ay0T7EbV0c9KO)
+![⑤−3.PNG](https://drive.google.com/uc?export=view&id=1oZFCsh1aXXdn64i0pB2ay0T7EbV0c9KO)
 
-![⑤−4.PNG](https://drive.google.com/uc?export=view&id= 1BT2z2WdyfTIV_2VWVfmVF7-E66lk9--0)
+![⑤−4.PNG](https://drive.google.com/uc?export=view&id=1BT2z2WdyfTIV_2VWVfmVF7-E66lk9--0)
 
-![⑤−5.PNG](https://drive.google.com/uc?export=view&id= 1EEqOilTgA5Q4M141phWfOFkdTvwmCi9Z)
+![⑤−5.PNG](https://drive.google.com/uc?export=view&id=1EEqOilTgA5Q4M141phWfOFkdTvwmCi9Z)
 
-![⑤−6.PNG](https://drive.google.com/uc?export=view&id= 1mMyPhXFHchBm91CBFZI-5jYVcZy3lndu)
+![⑤−6.PNG](https://drive.google.com/uc?export=view&id=1mMyPhXFHchBm91CBFZI-5jYVcZy3lndu)
 
 ## Introduction  
 
