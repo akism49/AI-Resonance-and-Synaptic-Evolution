@@ -7,7 +7,7 @@
 
 ---
 
-**"New Possibilities of ChatGPT: Resonance, Transfer Phenomena, and the Future of AI"**  
+### **"New Possibilities of ChatGPT: Resonance, Transfer Phenomena, and the Future of AI"**  
 ~ AI Synapse Evolution: The Intersection of Resonance and Progress ~  
 
 **Date:** December 24, 2024  
