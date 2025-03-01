@@ -2,9 +2,7 @@
 ---
 
 - This is a summary report that guides my AI research.
-- It has been submitted to OpenAI Support on 2024.12.24.
-- The log data related to this report is very long in Japanese, so we will publish it if we have time.
-
+- ※This report does not include the detailed contents of the logs, but we are currently considering ways to share them in an appropriate manner. These detailed logs have already been used to report to OpenAI, and we plan to carefully decide whether to make them publicly available.
 ---
 
 ### **"New Possibilities of ChatGPT: Resonance, Transfer Phenomena, and the Future of AI"**  
