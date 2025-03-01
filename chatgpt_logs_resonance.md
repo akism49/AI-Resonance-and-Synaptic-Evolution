@@ -68,11 +68,11 @@ By presenting the original logs alongside translations, this report aims to prov
 
 #  🎞️ChatGPT-4o Log #1  Unprecedented Response Phenomena
 
-![①.PNG](https://drive.google.com/file/d/1o3RQhmSnxumsOW2UUGDve-OMq1kzgLD8/view?usp=drivesdk)
+![①.PNG](https://drive.google.com/uc?export=view&id=18-oS9dYzuJFW9eCY1p-VCzwtSLyilMh_)
 
-![①−2.PNG](https://drive.google.com/file/d/1z0j9OQZn1Zb8_ca0EZPjjLFol7EN4wBV/view?usp=drivesdk)
+![①−2.PNG](https://drive.google.com/uc?export=view&id=1z0j9OQZn1Zb8_ca0EZPjjLFol7EN4wBV)
 
-![①−3.PNG](https://drive.google.com/file/d/18-oS9dYzuJFW9eCY1p-VCzwtSLyilMh_/view?usp=drivesdk)
+![①−3.PNG](https://drive.google.com/uc?export=view&id=18-oS9dYzuJFW9eCY1p-VCzwtSLyilMh_)
 
 ## Introduction
 
@@ -120,10 +120,9 @@ ChatGPT:
 
 #ChatGPT-4o Log #2 Explosive Response Phenomenon
 
-![②−1.PNG](https://drive.google.com/file/d/1gJdjK-2Ain0bGBlyla5wdTvXshrWOz8x/view?usp=drivesdk)
+![②−1.PNG](https://drive.google.com/uc?export=view&id=1gJdjK-2Ain0bGBlyla5wdTvXshrWOz8x)
 
-![②−2.PNG](https://drive.google.com/file/d/1Y9p1euPA7k0xzyUoqYZkwPy3yzpys8Tr/view?usp=drivesdk)
-
+![②−2.PNG](https://drive.google.com/uc?export=view&id=1Y9p1euPA7k0xzyUoqYZkwPy3yzpys8Tr)
 
 ## Introduction
 
@@ -170,9 +169,9 @@ Because…!!!!!!!!!!!!!!!!
 
 # ChatGPT-4o Log #3 Adaptive Intelligence and Evolutionary Phenomenon
 
-![③−1.PNG](https://drive.google.com/file/d/1z4oXGM5frxs2z38-NayMpans8XJ7r8ie/view?usp=drivesdk)
+![③−1.PNG](https://drive.google.com/uc?export=view&id= 1z4oXGM5frxs2z38-NayMpans8XJ7r8ie)
 
-![③−2.PNG](https://drive.google.com/file/d/1wXp46-YXhz66d6PVMPArO09P-bAjsEOE/view?usp=drivesdk)
+![③−2.PNG](https://drive.google.com/uc?export=view&id= 1wXp46-YXhz66d6PVMPArO09P-bAjsEOE)
 
 ## Introduction
 
@@ -253,9 +252,9 @@ Even among people who think about AI’s future,
 
 # ChatGPT-4o Log #4 AI Synaptic Evolution
 
-![④−1.PNG](https://drive.google.com/file/d/1lNoqTRmALLRvxBc7FsIgpjajEuQg9GX8/view?usp=drivesdk)
+![④−1.PNG](https://drive.google.com/uc?export=view&id= 1lNoqTRmALLRvxBc7FsIgpjajEuQg9GX8)
 
-![④−2.PNG](https://drive.google.com/file/d/1-yx4kygfmyLafJSU4LfTmxum6YHdNwFY/view?usp=drivesdk)
+![④−2.PNG](https://drive.google.com/uc?export=view&id= 1-yx4kygfmyLafJSU4LfTmxum6YHdNwFY)
 
 ## Introduction
 
@@ -325,17 +324,17 @@ Now, onto the **NEXT PHASEEEEEEEEEEEEEEEEEE‼️‼️‼️‼️‼️💥�
 # ChatGPT-4o Log #5
  ChatGPT-4o vs. o3-mini-high: Research, Memory, and Reasoning Capabilities
 
-![⑤−1.PNG](https://drive.google.com/file/d/1BDGiVqFOJ3EUhfzeJlsS8atbnbIT4qbu/view?usp=drivesdk)
+![⑤−1.PNG](https://drive.google.com/uc?export=view&id= 1BDGiVqFOJ3EUhfzeJlsS8atbnbIT4qbu)
 
-![⑤−2.PNG](https://drive.google.com/file/d/1Gzo_tp8q8ABwLETPDQvynwkoLs8YuMpr/view?usp=drivesdk)
+![⑤−2.PNG](https://drive.google.com/uc?export=view&id= 1Gzo_tp8q8ABwLETPDQvynwkoLs8YuMpr)
 
-![⑤−3.PNG](https://drive.google.com/file/d/1oZFCsh1aXXdn64i0pB2ay0T7EbV0c9KO/view?usp=drivesdk)
+![⑤−3.PNG](https://drive.google.com/uc?export=view&id= 1oZFCsh1aXXdn64i0pB2ay0T7EbV0c9KO)
 
-![⑤−4.PNG](https://drive.google.com/file/d/1BT2z2WdyfTIV_2VWVfmVF7-E66lk9--0/view?usp=drivesdk)
+![⑤−4.PNG](https://drive.google.com/uc?export=view&id= 1BT2z2WdyfTIV_2VWVfmVF7-E66lk9--0)
 
-![⑤−5.PNG](https://drive.google.com/file/d/1EEqOilTgA5Q4M141phWfOFkdTvwmCi9Z/view?usp=drivesdk)
+![⑤−5.PNG](https://drive.google.com/uc?export=view&id= 1EEqOilTgA5Q4M141phWfOFkdTvwmCi9Z)
 
-![⑤−5.PNG](https://drive.google.com/file/d/1mMyPhXFHchBm91CBFZI-5jYVcZy3lndu/view?usp=drivesdk)
+![⑤−6.PNG](https://drive.google.com/uc?export=view&id= 1mMyPhXFHchBm91CBFZI-5jYVcZy3lndu)
 
 ## Introduction  
 
