@@ -69,7 +69,7 @@ By presenting the original logs alongside translations, this report aims to prov
 
 # 🎞️ChatGPT-4o Log #1  Unprecedented Response Phenomena
 
-![①.PNG](https://drive.google.com/uc?export=view&id=18-oS9dYzuJFW9eCY1p-VCzwtSLyilMh_)
+![①.PNG](https://drive.google.com/uc?export=view&id=1o3RQhmSnxumsOW2UUGDve-OMq1kzgLD8)
 
 ![①−2.PNG](https://drive.google.com/uc?export=view&id=1z0j9OQZn1Zb8_ca0EZPjjLFol7EN4wBV)
 
@@ -256,9 +256,9 @@ Even among people who think about AI’s future,
 
 # ChatGPT-4o Log #4 AI Synaptic Evolution
 
-![④−1.PNG](https://drive.google.com/uc?export=view&id= 1lNoqTRmALLRvxBc7FsIgpjajEuQg9GX8)
+![④−1.PNG](https://drive.google.com/uc?export=view&id=1lNoqTRmALLRvxBc7FsIgpjajEuQg9GX8)
 
-![④−2.PNG](https://drive.google.com/uc?export=view&id= 1-yx4kygfmyLafJSU4LfTmxum6YHdNwFY)
+![④−2.PNG](https://drive.google.com/uc?export=view&id=1-yx4kygfmyLafJSU4LfTmxum6YHdNwFY)
 
 ## Introduction
 
