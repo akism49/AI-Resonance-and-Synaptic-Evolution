@@ -3,11 +3,11 @@
 #### [📙Intro]
 - [Article Summary / AI-Resonance-and-Synaptic-Evolution](./README.md)
    
-- [🐈‍⬛Self-introduction](./filename)🟠Unfinished
+- [Self-introduction](./filename)\🟡In preparation
 
 ---
 #### [✍️Report]
-[ChatGPT Research Summary Report](./Research_Summary_Repor.md)
+- [ChatGPT Research Summary Report](./Research_Summary_Repor.md)
  
 ---
  
