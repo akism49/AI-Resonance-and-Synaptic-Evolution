@@ -1,4 +1,4 @@
-## **+Links page+**
+## **+Category Links page+**
 ---
 ### [📙Intro]
 - [Article Summary / AI-Resonance-and-Synaptic-Evolution](./README.md)
