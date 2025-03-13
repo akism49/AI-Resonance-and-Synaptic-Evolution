@@ -44,18 +44,6 @@ This repository publishes research and observational findings as Markdown files.
 
 ---
 
-## License
-
-This project uses the **Creative Commons BY-NC-SA 4.0** license, allowing non-commercial sharing and adaptation with attribution.
-
-2. Review Research Content:
-Please explore the research findings documented in each file.
-
-3. Provide Comments or Feedback:
-Feel free to share your opinions and feedback in the Issues section.
-
----
-
 ## Future Outlook
 
 - Exploring new application fields utilizing AI's dynamic adaptability.
