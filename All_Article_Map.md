@@ -1,6 +1,6 @@
 ## **+All Article Map+**
 
-![map](https://drive.google.com/uc?export=view&id=1JgG3MHirTcl25ZoXbYvQNPmhwbdUZJtN)
+<img src="https://drive.google.com/uc?export=view&id=1FYHXOPLKk2rcwfYAEF1d6SVoAr_Ed7GX" alt="map" style="border-radius: 10px;">
 
 ---
 ### [📙Intro]
