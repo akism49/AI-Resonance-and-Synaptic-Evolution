@@ -6,7 +6,7 @@
 ### [📙Intro]
 - [Article Summary / AI-Resonance-and-Synaptic-Evolution](./README.md)
    
-- [Self-introduction](./filename)🟡In preparation
+- [👤Self-introduction](./Self-introduction.md)
 
 ---
 ### [✍️Report]
