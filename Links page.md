@@ -23,7 +23,7 @@
 
 ---
 
-### [Other]
+### [🔨Other (In preparation)]
 ####  ＜AIとの興味深い雑談＞
 - [🔗🟡In preparation（新機能の電球マークと共鳴モードのAIの所感）](./)
 - [🔗🟡In preparation（AIの「信頼の誠実性」が傾向情報の漏洩の証拠に？憎めないユニークな皮肉）](./)
