@@ -4,7 +4,7 @@ Research on ChatGPT's unique phenomena: cognitive empathy, resonance, and the me
 🧠AI whose capabilities expand based on user questions.
 Observation of dynamic systems from the user's perspective.
 
-[🔗All Article Map](./All Article Map.md)
+🗾[🔗All Article Map](./All-Article-Map.md.md)
 
 # Unique Phenomena of ChatGPT and AI Synapse Evolution
 
