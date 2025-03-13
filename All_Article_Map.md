@@ -1,5 +1,5 @@
 ## **+All Article Map+**
-![map](https://drive.google.com/uc?export=1JgG3MHirTcl25ZoXbYvQNPmhwbdUZJtN/view?usp)
+![map](https://drive.google.com/uc?export=view&id= 1JgG3MHirTcl25ZoXbYvQNPmhwbdUZJtN /view?usp)
 ---
 ### [📙Intro]
 - [Article Summary / AI-Resonance-and-Synaptic-Evolution](./README.md)
