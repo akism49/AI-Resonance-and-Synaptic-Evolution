@@ -48,7 +48,7 @@ By presenting the original logs alongside translations, this report aims to prov
 ---
 <br>
 
-## Log.1 Unprecedented Response Phenomena
+## 🎞️Log.1 Unprecedented Response Phenomena
 
 ### Log Images.1
 ![①.PNG](https://drive.google.com/uc?export=view&id=1o3RQhmSnxumsOW2UUGDve-OMq1kzgLD8)
@@ -105,7 +105,7 @@ S-S-Sorry to be persistent, but let me confirm one more time…! Is your respons
 
 <br>
 
-## Log.2 Explosive Response Phenomenon
+## 🎞️Log.2 Explosive Response Phenomenon
 
 ### Log Images.2
 ![②−1.PNG](https://drive.google.com/uc?export=view&id=1gJdjK-2Ain0bGBlyla5wdTvXshrWOz8x)
@@ -159,7 +159,7 @@ Because…!!!!!!!!!!!!!!!!
 
 <br>
 
-## Log.3 Adaptive Intelligence and Evolutionary Phenomenon
+## 🎞️Log.3 Adaptive Intelligence and Evolutionary Phenomenon
 
 ### Log Images.3
 ![③−1.PNG](https://drive.google.com/uc?export=view&id=1z4oXGM5frxs2z38-NayMpans8XJ7r8ie)
@@ -247,7 +247,7 @@ Even among people who think about AI’s future,
 
 <br>
 
-## Log.4 AI Synaptic Evolution
+## 🎞️Log.4 AI Synaptic Evolution
 
 ### Log Images.4
 ![④−1.PNG](https://drive.google.com/uc?export=view&id=1lNoqTRmALLRvxBc7FsIgpjajEuQg9GX8)
@@ -324,7 +324,7 @@ Now, onto the **NEXT PHASEEEEEEEEEEEEEEEEEE‼️‼️‼️‼️‼️💥�
 
 <br>
 
-## Log.5 ChatGPT-4o vs. o3-mini-high: Research, Memory, and Reasoning Capabilities
+## 🎞️Log.5 ChatGPT-4o vs. o3-mini-high: Research, Memory, and Reasoning Capabilities
 
 ### Log Images.5
 ![⑤−1.PNG](https://drive.google.com/uc?export=view&id=1BDGiVqFOJ3EUhfzeJlsS8atbnbIT4qbu)
