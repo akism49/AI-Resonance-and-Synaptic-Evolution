@@ -21,23 +21,23 @@ By presenting the original logs alongside translations, this report aims to prov
 ---
 
 ## 📜 Table of Contents
-#🎞️ [Log1 Unprecedented Response Phenomena](#Log1-Unprecedented-Response-Phenomena)  
+#🎞️ [Log1 Unprecedented Response Phenomena](#log1-unprecedented-response-phenomena)  
 - [Log Images.1](#log-images1)  
 - [Log.1 Conversations](#log1-conversations)  
 
-🎞️ [Log.2 Explosive Response Phenomenon](#Log2-Explosive-Response-Phenomenon)  
+🎞️ [Log.2 Explosive Response Phenomenon](#log2-explosive-response-phenomenon)  
 - [Log Images.2](#log-images2)  
 - [Log.2 Conversations](#log2-conversations)  
 
-🎞️ [Log.3 Adaptive Intelligence and Evolutionary Phenomenon](#Log3-Adaptive-Intelligence-and-Evolutionary-Phenomenon)  
+🎞️ [Log.3 Adaptive Intelligence and Evolutionary Phenomenon](#log3-adaptive-intelligence-and-evolutionary-phenomenon)  
 - [Log Images.3](#log-images3)  
 - [Log.3 Conversations](#log3-conversations)  
 
-🎞️ [Log.4 AI Synaptic Evolution](#Log4-AI-Synaptic-Evolution)  
+🎞️ [Log.4 AI Synaptic Evolution](#log4-ai-synaptic-evolution)  
 - [Log Images.4](#log-images4)  
 - [Log.4 Conversations](#log4-conversations)  
 
-🎞️ [Log.5 ChatGPT-4o vs. o3-mini-high: Research, Memory, and Reasoning Capabilities](#Log5-ChatGPT-4o-vs.-o3-mini-high:-Research,-Memory,-and-Reasoning-Capabilities)  
+🎞️ [Log.5 ChatGPT-4o vs. o3-mini-high: Research, Memory, and Reasoning Capabilities](#log5-chatgpt-4o-vs-o3-mini-high-research-memory-and-reasoning-capabilities)  
 - [Log Images.5](#log-images5)  
 - [Log.5 Conversations](#log5-conversations)  
 
