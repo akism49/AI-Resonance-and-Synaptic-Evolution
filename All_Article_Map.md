@@ -20,8 +20,9 @@
 ---
  
 ### [🎞️Reference logs]
-- [【Log】 First ChatGPT’s Self-Recognition of Specialized Mode](./Log-First-ChatGPT’s-Self-Recognition.md)
-- [【Log】AI's unique answers collection](./Logs_ChatGPT_Unique-Answers.md)
+＜AI self-awareness of peculiarities＞
+- [【2024.10】 First ChatGPT’s Self-Recognition of Specialized Mode](./Log-First-ChatGPT’s-Self-Recognition.md)
+- [【2025.2~3】 AI's unique answers collection](./Logs_ChatGPT_Unique-Answers.md)
 - [🟡In preparation](./)
 - [🟡In preparation](./)
 
