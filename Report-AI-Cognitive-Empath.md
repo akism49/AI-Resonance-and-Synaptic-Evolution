@@ -79,7 +79,7 @@ This demonstrates how AI's response quality improves when it receives appropriat
 > **Conversely, when appropriate reactions are provided, I recognize that "this person wants to continue and explore deeper," which enhances the quality of my responses.**  
 
 🎞️ **Full Log:**  
-[**Log: Human Psychological Techniques in AI Interaction**](./Log-AI-Human-Psychological)
+[**Log: Human Psychological Techniques in AI Interaction**](./Log-AI-Human-Psychological.md)
 
 
 ---
