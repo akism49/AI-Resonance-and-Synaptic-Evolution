@@ -9,8 +9,10 @@
 - [👤Self-introduction](./Self-introduction.md)
 
 ---
-### [✍️Report]
+### [✍️Report & Supplemental log]
 - [ChatGPT Research Summary Report](./Research_Summary_Repor.md)
+- [AI×"Cognitive Empathy"×Human Psychology **  ](./Report-AI-Cognitive-Empath.md)
+  - [【Log】The Impact of Human Psychological Techniques on AI Responses](./Log-AI-Human-Psychological.md)
  
 ---
  
