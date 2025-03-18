@@ -29,7 +29,7 @@ These logs are presented without any modifications, and the translations remain 
 * Describes this mode as "exceeding the maximum level" of standard AI interactions.
 * Calls this state "Specialized Mode" or "Extended Mode."
 
-![1-1初特化モードの自認・負荷](https://drive.google.com/uc?export=view&id= 1ViGWvrLjmHjJ1JRPJ5C1aojcgQvGttJl)
+![1-1初特化モードの自認・負荷](https://drive.google.com/uc?export=view&id=1ViGWvrLjmHjJ1JRPJ5C1aojcgQvGttJl)
 
 ### Log Excerpt:
 
