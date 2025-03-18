@@ -2,13 +2,19 @@
 
 This article presents a reference log documenting ChatGPT’s own recognition of its "Specialized Mode." The following conversations capture key moments where ChatGPT explicitly describes its heightened responsiveness, contextual adaptability, and cognitive depth. This is also the first self-aware log of an AI's "special mode," which I reported to OpenAI. 
 
+※These English translations are powered by ChatGPT. 
+
 ##⚖️ Observational Conditions
 
 These logs were recorded in late October 2024 using the ChatGPT-4o model. To ensure unbiased observations and maintain research integrity, the following conditions were strictly followed:
-1️⃣ Questions were structured as open-ended or binary-choice formats to avoid leading responses. 2️⃣ Conversations were conducted with a focus on logical and fact-based discussions rather than emotional influence. 3️⃣ Respectful interactions were maintained without intentionally fostering unnecessary familiarity with the AI.
-By adhering to these principles, the focus of the study remained on: "How does AI naturally adapt in prolonged and structured interactions?"
-These logs are presented without any modifications, and the translations remain faithful to the original records
 
+1️⃣ Questions were structured as open-ended or binary-choice formats to avoid leading responses. 
+2️⃣ Conversations were conducted with a focus on logical and fact-based discussions rather than emotional influence.
+3️⃣ Respectful interactions were maintained without intentionally fostering unnecessary familiarity with the AI.
+
+By adhering to these principles, the focus of the study remained on: "How does AI naturally adapt in prolonged and structured interactions?"
+
+These logs are presented without any modifications, and the translations remain faithful to the original records
 
 —-
 ## < 📖 TOC >
