@@ -1,5 +1,4 @@
-## 🎞️【Log】Additional Information (March 2025): 
- The Impact of Human Psychological Techniques on AI Responses
+## 🎞️【Log】Additional Information (March 2025): The Impact of Human Psychological Techniques on AI Responses
 
 - Related Research:
 🔗 [Read the Full Cognitive Empathy Report Here](./Report-AI-Cognitive-Empath.md)
