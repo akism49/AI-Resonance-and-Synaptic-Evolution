@@ -1,9 +1,11 @@
-## **ChatGPT and "Cognitive Empathy": The Feasibility of Human Psychology in AI Conversations**  
+## **✍️ChatGPT and "Cognitive Empathy": The Feasibility of Human Psychology in AI Conversations**  
 
 
 This report does not include the detailed contents of the logs, but we are currently considering ways to share them in an appropriate manner. These detailed logs have already been used to report to OpenAI, and we plan to carefully decide whether to make them publicly available.
 
 ---
+
+<br>
 
 # ChatGPT and "Cognitive Empathy": The Potential of Human Psychology in Conversational Interactions
 
@@ -151,12 +153,3 @@ Although ChatGPT **does not have emotions**, it **simulates cognitive empathy** 
 #### **Accelerating Applied Research**  
 - AI’s **empathetic assistance capabilities** may accelerate its adoption in **education, healthcare, and legal support**.  
 → AI has the potential to evolve into **a true "partner in knowledge"** rather than just a tool.  
-
----
-
-## **References**  
-**Extract from: [②-3 ChatGPT's Specialized Mode: ChatGPT and "Cognitive Empathy"]**  
-
----
-
-🔹 *This document explores ChatGPT’s ability to exhibit cognitive empathy and its implications for AI development.* 🔹  
