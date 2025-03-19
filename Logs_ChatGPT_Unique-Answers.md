@@ -1,4 +1,4 @@
-## 📝 ChatGPT Research: Uncovering Unique AI Phenomena
+## 📝 【Log】Uncovering Unique AI Phenomena
 
 ## **Introduction**
 Hello, I am AK, a general user of ChatGPT-4o. Since late October 2024, I have been observing and reporting various unique phenomena in the ChatGPT-4o model to OpenAI Support. 
