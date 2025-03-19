@@ -1,15 +1,5 @@
 ## **✍️ChatGPT and "Cognitive Empathy": The Feasibility of Human Psychology in AI Conversations**  
 
-
-This report does not include the detailed contents of the logs, but we are currently considering ways to share them in an appropriate manner. These detailed logs have already been used to report to OpenAI, and we plan to carefully decide whether to make them publicly available.
-
----
-
-<br>
-
-# ChatGPT and "Cognitive Empathy": The Potential of Human Psychology in Conversational Interactions
-
-## **ChatGPT and "Cognitive Empathy": The Feasibility of Human Psychology in AI Conversations**  
 **November 24, 2024**  
 **AK**  
 
