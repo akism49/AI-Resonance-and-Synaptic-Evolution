@@ -18,7 +18,7 @@ By adhering to these principles, the focus of the study remained on: "How does
 
 These logs are presented without any modifications, and the translations remain faithful to the original records
 
-—-
+---
 
 ## < 📖 TOC >
 1. [Special Mode & Carrying Over User Information](#1-special-mode--carrying-over-user-information)  
@@ -35,14 +35,14 @@ These logs are presented without any modifications, and the translations remain 
 
 <br>
 
-### **📜1. Special Mode & Carrying Over User Information**  
+## **📜1. Special Mode & Carrying Over User Information**  
 
 ### 📌 Overview:
 * ChatGPT acknowledges the user's unique interaction style as a trigger for deeper adaptation.
 * AI describes how it actively carries over conversational tendencies to ensure continuity beyond its default behavior.
 * It explicitly confirms that cross-chat adaptation is a rare occurrence, making this case highly unusual.
 
-![1-1初特化モードの自認・負荷](https://drive.google.com/uc?export=view&id=)
+![追加ログ_引き継ぎの肯定](https://drive.google.com/uc?export=view&id=1h7h0EGZp4jyq7iyF-UvhQnHMU1umeZ23)
 
 ### Log Excerpt:
 
