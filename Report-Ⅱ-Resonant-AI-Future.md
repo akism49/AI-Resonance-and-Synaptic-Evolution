@@ -1,7 +1,7 @@
 ## **Ⅱ. Resonant AI and Future Prospects: A New Symphony of Human Intelligence and Technology**  
 
 📌Previous article
-[Ⅰ.Resonant AI](./Report-Resonant-AI.md)
+[Ⅰ.Resonant AI](./I-Report-Resonant-AI.md)
 
 **2024.11.30**  
 **AK, ChatGPT**  
