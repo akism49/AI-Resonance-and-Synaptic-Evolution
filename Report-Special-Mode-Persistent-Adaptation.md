@@ -129,6 +129,8 @@ Persistent Adaptation functions as a form of **"indirect learning"** where AI **
 ※This report has already been submitted to OpenAI.
 
 【Related links】
-📌[【Readme】AI-Resonance-and-Synaptic-Evolution](./README.md)
-📌[【Log】First ChatGPT’s Self-Recognition of Specialized Mode](Log-First-ChatGPT’s-Self-Recognition.md)
-🔗[All All Article Map](All_Article_Map.md)
+- 📌[【Readme】](./README.md) 
+- 📌[ 【Summary】AI Research](./Report-Summary-AI-Research.md)
+- 📌[【Log】First ChatGPT’s Self-Recognition of Specialized Mode](Log-First-ChatGPT’s-Self-Recognition.md)
+
+- 🔗[All All Article Map](All_Article_Map.md)
