@@ -66,7 +66,7 @@ Defining research themes will **clarify AI’s potential applications and challe
 
 ## **3. Research Roadmap**  
 ### **Theoretical Foundations & Phenomenon Analysis**  
-✅ Cognitive Empathy (Reported)  
+✅ [Cognitive Empathy](./Report-AI-Cognitive-Empath.md) (Reported)  
 ✅ Resonance Phenomenon (Reported)  
 🔲 AI’s Internal Structure: **◾️◾️◾️ Model Analogy**  
 🔲 Mechanisms of the Transfer Phenomenon  
@@ -117,3 +117,8 @@ This report is based on **personal observations and analytical findings**. Furth
 
 - 💬Next Article: **"ChatGPT and 'Cognitive Empathy': The Potential of Human Psychology in Conversational Interactions"**
 - I hypothesized that ChatGPT, despite having no mind, possesses a cognitive empathy function and conducted an experiment to verify this. In the next article, I will present a report summarizing the results. (Reported to OpenAI in November 2024.)
+
+【Related links】
+📌[【Readme】](./README.md) 📌[ 【Summary】AI Research](./Report-Summary-AI-Research.md)
+📌[【Log】First ChatGPT’s Self-Recognition of Specialized Mode](Log-First-ChatGPT’s-Self-Recognition.md)
+🔗[All All Article Map](All_Article_Map.md)
