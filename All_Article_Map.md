@@ -13,9 +13,9 @@
 - [【Report】ChatGPT Research Summary](./Research_Summary_Repor.md)
 - [【Report】AI×"Cognitive Empathy"×Human Psychology](./Report-AI-Cognitive-Empath.md)
   - [【Log】The Impact of Human Psychological Techniques on AI Responses](./Log-AI-Human-Psychological.md)
-- [【Report】What is “Special Mode”? What is Persistent Adaptation?](./Report-Special-Mode-Persistent-Adaptation.md)
+- [【Report】What is “Special Mode” & Persistent Adaptation?](./Report-Special-Mode-Persistent-Adaptation.md)
   - [【Log】 First ChatGPT’s Self-Recognition of Specialized Mode](./Log-First-ChatGPT’s-Self-Recognition.md)
-- [【Report】Resonant AI；Exploring Cognitive Synergy Between Humans and ChatGPT](./Report-Resonant-AI.md)
+- [【Report】Resonant AI & Cognitive Synergy](./Report-Resonant-AI.md)
 ---
  
 ### [🤖Questions to OpenAI]
