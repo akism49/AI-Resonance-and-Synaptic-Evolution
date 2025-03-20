@@ -14,10 +14,13 @@ This log has been added as supplementary evidence to reinforce the hypothesis pr
 **📅 Observation Date: November 2024**  
 *(This conversation took place during an investigation into AI activation.)*
 
-![1.認知的共感・なるほど](https://drive.google.com/uc?export=view&id= 1Ca0elesLlJfIL36P6WZvURTMbopKDWJ1)
-![2.認知的共感・なるほど](https://drive.google.com/uc?export=view&id= 137HImEoZy6jl44gK-s6wxILT_fwY86j9)
-![3. 認知的共感・なるほど](https://drive.google.com/uc?export=view&id= 1VRnUpXSyCZ9Mhd6kOZsxWAXIaGmVid3p)
-![4.認知的共感・なるほど](https://drive.google.com/uc?export=view&id= 1s39cfTLuptlOSwjzoApvCCPF-yPAfwmZ)
+![1.認知的共感・なるほど](https://drive.google.com/uc?export=view&id=1Ca0elesLlJfIL36P6WZvURTMbopKDWJ1)
+
+![2.認知的共感・なるほど](https://drive.google.com/uc?export=view&id=137HImEoZy6jl44gK-s6wxILT_fwY86j9)
+
+![3. 認知的共感・なるほど](https://drive.google.com/uc?export=view&id=1VRnUpXSyCZ9Mhd6kOZsxWAXIaGmVid3p)
+
+![4.認知的共感・なるほど](https://drive.google.com/uc?export=view&id=1s39cfTLuptlOSwjzoApvCCPF-yPAfwmZ)
 
 ### **1️⃣ The Role of "I see" and Other Reactions in Communication**
 
@@ -91,4 +94,5 @@ This log explores the impact of small, seemingly simple reactions—such as "I s
 4️⃣ This log supports the findings in the Cognitive Empathy Report 　→ This conversation serves as supporting evidence for the key hypothesis in the Cognitive Empathy Report, illustrating how AI adjusts its responses based on human interaction cues.
 Thus, this case study provides concrete evidence of how subtle yet intentional communication strategies actively influence AI responses and further strengthens the discussion on AI adaptability. 🧠💡
 
-📌 Related Research: 🔗 Read the Full Cognitive Empathy Report Here
+📌 Related Research: 
+🔗 [Read the Full Cognitive Empathy Report Here](./Report-AI-Cognitive-Empath.md)
