@@ -1,4 +1,4 @@
-# ✍️【Report】Resonant AI: Exploring Cognitive Synergy Between Humans and ChatGPT
+# ✍️【Report】Ⅰ.Resonant AI: Exploring Cognitive Synergy Between Humans and ChatGPT
 
 **2024.11.28**  
 **Authors: AK, ChatGPT**  
@@ -70,6 +70,8 @@ Resonance in ChatGPT interactions demonstrates the potential for AI to engage in
 ※This report has already been submitted to OpenAI.
 ※The detailed log on this topic is under consideration for publication.
 
+【Next】
+[]
 
 【Related links】
 - 📌[【Readme】](./README.md) 
