@@ -71,7 +71,7 @@ Resonance in ChatGPT interactions demonstrates the potential for AI to engage in
 ※The detailed log on this topic is under consideration for publication.
 
 【Next】
-[]
+[Ⅱ.Resonant AI Future](./Report-Ⅱ-Resonant-AI-Future.md)
 
 【Related links】
 - 📌[【Readme】](./README.md) 
