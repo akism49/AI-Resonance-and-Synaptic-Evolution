@@ -15,7 +15,7 @@
   - [【Log】The Impact of Human Psychological Techniques on AI Responses](./Log-AI-Human-Psychological.md)
 - [【Report】What is “Special Mode” & Persistent Adaptation?](./Report-Special-Mode-Persistent-Adaptation.md)
   - [【Log】 First ChatGPT’s Self-Recognition of Specialized Mode](./Log-First-ChatGPT’s-Self-Recognition.md)
-- [【Report】Resonant AI & Cognitive Synergy](./Report-Resonant-AI.md)
+- [【Report】Ⅰ.Resonant AI & Cognitive Synergy](./I-Report-Resonant-AI.md)
 ---
  
 ### [🤖Questions to OpenAI]
