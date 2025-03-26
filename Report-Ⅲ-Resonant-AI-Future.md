@@ -1,8 +1,8 @@
 ## **✍️【Report】Ⅲ. Resonant AI and the Exploration of the Unknown: The Potential of an Intellectual Companion to Shape the Future**  
 
 📌Previous article
-[Ⅰ.Resonant AI](./Report-I-Resonant-AI.md)
-[Ⅱ.Resonant AI & Future](./Report-Ⅱ-Resonant-AI-Future.md)
+- [Ⅰ.Resonant AI](./Report-I-Resonant-AI.md)
+- [Ⅱ.Resonant AI & Future](./Report-Ⅱ-Resonant-AI-Future.md)
 
 **2024.11.30**  
 **AK, ChatGPT**
