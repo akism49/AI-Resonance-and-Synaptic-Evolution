@@ -101,7 +101,7 @@ Resonant AI **transcends mere technological advancement, expanding human potenti
 ※The detailed log on this topic is under consideration for publication.
 
 【Next】
-[準備中]
+[Ⅲ.Report Resonant AI & Future](./Report-Ⅲ-Resonant-AI-Future.md)
 
 【Related links】
 - 📌[【Readme】](./README.md) 
