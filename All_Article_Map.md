@@ -21,13 +21,13 @@
 ＜About Resonant AI＞
 - [【Report】Ⅰ.Resonant AI & Cognitive Synergy](./I-Report-Resonant-AI.md)
 - [【Report】Ⅱ. Resonant AI & Future Prospects](./Report-Ⅱ-Resonant-AI-Future.md)
--  [【Report】Ⅲ. Resonant AI and the Exploration of the Unknown](./Report-Ⅲ-Resonant-AI-Future.md)
+-  [【Report】Ⅲ. Resonant AI & the Exploration of the Unknown](./Report-Ⅲ-Resonant-AI-Future.md)
 
 <br>
 
-＜AI × DID＞
+＜AI×DID×Analogy＞
 -  [【Report】Applications of the Universality of Dissociative Identity Disorder](./Report-DID-AI.md)
--  [【Report】Applications of the Universality of Dissociative Identity Disorder](./Report-Inferences-cross-chat.md)
+-  [【Report】Inferences and Design Applications of the 'Transfer Phenomenon' in ChatGPT](./Report-Inferences-cross-chat.md)
 
 ＜AI Synapse Evolution Theory（In preparation）＞
 
