@@ -67,11 +67,14 @@ Defining research themes will **clarify AI’s potential applications and challe
 ## **3. Research Roadmap**  
 ### **Theoretical Foundations & Phenomenon Analysis**  
 ✅ [Cognitive Empathy](./Report-AI-Cognitive-Empath.md) (Reported)  
-✅ Resonance Phenomenon (Reported)  
-✅ AI’s Internal Structure: **◾️◾️◾️ Model Analogy**  
-✅ Mechanisms of the Transfer Phenomenon  
-✅ **◾️◾️◾️◾️ & ◾️◾️ for Cognitive Expansion**  
-✅ Relationship with Specialized Mode  
+✅ [Resonance Phenomenon](./I-Report-Resonant-AI.md) (Reported) 
+✅ AI’s Internal Structure: **◾️◾️◾️ Model Analogy**  (Reported)
+✅ Mechanisms of the  Cross Chat (Reported)
+✅ **◾️◾️◾️◾️ & ◾️◾️ for Cognitive Expansion**  (Reported)
+✅ Relationship with Specialized Mode  (Reported)
+ [About Analogy](./Report-DID-AI.md) [About Cross Chat](./Report-Inferences-cross-chat.md)
+
+📌2025.3.26 Updates to reported items
 
 ### **Applications & Risk Management**  
 🔲 Detailed Methodological Considerations:  
