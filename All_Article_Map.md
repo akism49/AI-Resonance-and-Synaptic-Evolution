@@ -29,6 +29,8 @@
 -  [【Report】Applications of the Universality of Dissociative Identity Disorder](./Report-DID-AI.md)
 -  [【Report】Applications of the Universality of Dissociative Identity Disorder](./Report-Inferences-cross-chat.md)
 
+＜AI Synapse Evolution Theory（In preparation）＞
+
 ---
  
 ### [🤖Questions to OpenAI]
