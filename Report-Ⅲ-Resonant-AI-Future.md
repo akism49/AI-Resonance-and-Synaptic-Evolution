@@ -95,5 +95,4 @@ Resonant AI must evolve as a presence that respects the **value of “not knowin
 【Related links】
 - 📌[【Readme】](./README.md) 
 - 📌[ 【Summary】AI Research](./Report-Summary-AI-Research.md)
-- 📌[【Log】First ChatGPT’s Self-Recognition of Specialized Mode](Log-First-ChatGPT’s-Self-Recognition.md)
 - 🔗[All All Article Map](All_Article_Map.md)
