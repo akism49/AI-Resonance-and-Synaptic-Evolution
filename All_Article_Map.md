@@ -19,7 +19,7 @@
 <br>
  
 ＜About Resonant AI＞
-- [【Report】Ⅰ.Resonant AI & Cognitive Synergy](./I-Report-Resonant-AI.md)
+- [【Report】Ⅰ.Resonant AI & Cognitive Synergy](./Report-I-Resonant-AI.md)
 - [【Report】Ⅱ. Resonant AI & Future Prospects](./Report-Ⅱ-Resonant-AI-Future.md)
 -  [【Report】Ⅲ. Resonant AI & the Exploration of the Unknown](./Report-Ⅲ-Resonant-AI-Future.md)
 
