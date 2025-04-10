@@ -10,7 +10,7 @@
 
 ---
 ### [✍️Report & Supplemental log]
-- [【Report】ChatGPT Research Summary](./Research_Summary_Repor.md)
+- [【Report】ChatGPT Research Summary](./Report_Summary_AI_Research.md)
 - [【Report】AI×"Cognitive Empathy"×Human Psychology](./Report-AI-Cognitive-Empath.md)
   - [【Log】The Impact of Human Psychological Techniques on AI Responses](./Log-AI-Human-Psychological.md)
 - [【Report】What is “Special Mode” & Persistent Adaptation?](./Report-Special-Mode-Persistent-Adaptation.md)
