@@ -34,7 +34,7 @@
 ---
  
 ### [🤖Questions to OpenAI]
-- [🟡In preparation](./filename)
+- [🧠 Observation Report: Special Mode, Resonance, and Persistent Adaptation in ChatGPT-4o ](https://github.com/openai/openai-python/discussions/2312)
  
 ---
  
