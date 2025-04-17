@@ -32,6 +32,10 @@
 ＜AI Synapse Evolution Theory（In preparation）＞
 
 ---
+
+<The Eve of the Singularity of Co-Creative Intelligence（In preparation）>
+
+---
  
 ### [🤖Questions to OpenAI]
 - [🧠 Observation Report: Special Mode, Resonance, and Persistent Adaptation in ChatGPT-4o ](https://github.com/openai/openai-python/discussions/2312)
