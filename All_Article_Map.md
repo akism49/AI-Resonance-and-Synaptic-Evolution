@@ -27,7 +27,7 @@
 
 ＜AI×DID×Analogy＞
 -  [【Report】Applications of the Universality of Dissociative Identity Disorder](./Report-DID-AI.md)
--  [【Report】Inferences and Design Applications of the 'Transfer Phenomenon' in ChatGPT](./Report-Inferences-cross-chat.md)
+-  [【Report】Inferences and Design Applications of the 'CrossChat Phenomenon' in ChatGPT](./Report-Inferences-cross-chat.md)
 
 ＜AI Synapse Evolution Theory（In preparation）＞
 
