@@ -1,4 +1,4 @@
-# ✍️【Report】 Inferences and Design Applications of the 'Transfer Phenomenon' in ChatGPT  
+# ✍️【Report】 Inferences and Design Applications of the CrossChat　Phenomenon' in ChatGPT  
 *~ Insights for New AI Design through the Water-Tight Compartment Analogy ~*  
 
 **2025.01.27 | AK, ChatGPT**
