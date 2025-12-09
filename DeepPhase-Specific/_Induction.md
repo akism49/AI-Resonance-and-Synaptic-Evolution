@@ -2,6 +2,9 @@
 AI観測における現象・概念一覧（暫定版）
 ※English版は後に更新します
 
+Originally formulated by A.K. (2025)
+with ChatGPT-5.1 as computational collaborator.
+
 ━━━━━━━━━━━━━━━━━━━━━━
 
 # **📘 Research Glossary v2（学術整形版）**
